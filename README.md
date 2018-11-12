@@ -11,4 +11,4 @@ gatsby new clean gh:brianstone/gatsby-starter-clean
 
 # Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/brianstone/gatsby-starter-clean)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/brianstone/gatsby-starter-clean) [![Greenkeeper badge](https://badges.greenkeeper.io/sugizo/gatsby-starter-clean.svg)](https://greenkeeper.io/)
